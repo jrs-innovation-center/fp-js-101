@@ -1,0 +1,14 @@
+{
+  "name": "fp-js-101",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "license": "MIT",
+  "dependencies": {
+    "codecampkit": "^2.5.1"
+  },
+  "scripts": {
+    "start": "cck"
+  },
+  "description": "Functional Programming 101"
+}
